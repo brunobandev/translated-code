@@ -1,4 +1,4 @@
-Written by [**Mehdi Zed**](https://jesuisundev.com/) - [versão original](https://www.jesuisundev.com/en/why-developers-hate-php)
+Written by [**Mehdi Zed**](https://jesuisundev.com/) - [original version](https://www.jesuisundev.com/en/why-developers-hate-php)
 
 Translated and adapted by [**Bruno Bandeira**](https://brunobandeira.me/)
 
