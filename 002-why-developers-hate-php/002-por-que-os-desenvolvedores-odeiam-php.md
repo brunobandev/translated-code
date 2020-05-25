@@ -63,7 +63,7 @@ Na mente de muitos desenvolvedores, o PHP permaneceu na versão 4. Quando a ling
 
 ![alt text](./002-files/005.gif "Thank you")
 
-**Os desenvolvedores odeiam o PHP porque é legal odiar o PHP**. Esse idioma continua a ter uma reputação muito ruim por causa disso. E sim, há um legado forte e muitos problemas. Mas há muitas coisas boas também para a maioria dos sites.
+**Os desenvolvedores odeiam o PHP porque é legal odiar o PHP**. Essa linguagem continua tendo uma reputação muito ruim por causa disso. E sim, há um legado forte e muitos problemas. Mas há muitas coisas boas também para a maioria dos sites.
 
 ## Epílogo / Conclusão
 
