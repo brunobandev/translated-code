@@ -2,6 +2,8 @@ Escrito por [**Mehdi Zed**](https://jesuisundev.com/) - [versão original](https
 
 Traduzido e adaptado por [**Bruno Bandeira**](https://brunobandeira.me/)
 
+![alt text](./002-files/000.jpg "PHP")
+
 # Por que os desenvolvedores odeiam PHP
 
 PHP é a [linguagem mais utilizada](https://w3techs.com/technologies/overview/programming_language) no mundo no desenvolvimento de sites. Mas também o mais odiado. E é puro ódio. Mas por que tantos desenvolvedores o odeiam? Hoje iremos para a origem do ódio, vamos ver se é realmente justificado.

@@ -2,6 +2,8 @@ Written by [**Mehdi Zed**](https://jesuisundev.com/) - [original version](https:
 
 Translated and adapted by [**Bruno Bandeira**](https://brunobandeira.me/)
 
+![alt text](./002-files/000.jpg "PHP")
+
 # Why developers hate PHP
 
 PHP is the [most widely used language](https://w3techs.com/technologies/overview/programming_language) in the world for websites. It is also the most hated. And it’s pure hate. But why do so many developers hate it so much? Today we’re going to the origin of the hate, let’s see if it’s really justified.
