@@ -5,11 +5,11 @@ O projeto foi criado com o intuito de trazer conteúdo traduzido para a comunida
 
 *The project was created to bring translated content to the Brazilian software development community.*
 
-## Artigos / *Articles*
+## :sparkles: Artigos traduzidos / *Translated articles*
 1. [10 práticas para se ter um código legível](001-10-practices-for-readable-code/001-10-praticas-para-se-ter-um-codigo-legivel.md) - [*10 practices for readable code*](001-10-practices-for-readable-code/001-10-practices-for-readable-code.md)
 2. [Por que os desenvolvedores odeiam PHP](002-why-developers-hate-php/002-por-que-os-desenvolvedores-odeiam-php.md) - [Why developers hate PHP](002-why-developers-hate-php/002-why-developers-hate-php.md)
 
-## Como contribuir? / *How to contribute?*
+## :question: Como contribuir? / *How to contribute?*
 Você pode contribuir de várias formas:
 
 *You can contribute in many ways*:
@@ -21,7 +21,7 @@ Você pode contribuir de várias formas:
 * Criando seus próprios artigos.
 * *Creating your own articles*.
 
-## Por que contribuir? / *Why contribute?*
+## :exclamation: Por que contribuir? / *Why contribute?*
 Ao contribuir com o projeto, você está ajudando a comunidade e a si mesmo. Aqui estão alguns benefícios:
 
 *By contributing to the project, you are helping the community and yourself. Here are some benefits:*
@@ -37,7 +37,7 @@ Ao contribuir com o projeto, você está ajudando a comunidade e a si mesmo. Aqu
 * Você estará ajudando alguem.
 * *You will be helping someone*.
 
-## Contribuindo / *Contributing*
+## :fire: Contribuindo / *Contributing*
 
 ### Sugerindo um novo artigo / *Suggesting a new article*:
 1. Clique [aqui](https://github.com/brunobandev/translated-code/issues) para acessar as *issues*.
@@ -55,6 +55,6 @@ Ao contribuir com o projeto, você está ajudando a comunidade e a si mesmo. Aqu
 3.  Abra um ***pull request***.
 
 
-### Obrigado / *Thank you*
+### :clap: Obrigado / *Thank you*
 
 Com :heart: da comunidade para a comunidade.
