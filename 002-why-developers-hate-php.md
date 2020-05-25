@@ -1,18 +1,18 @@
-Escrito por [**Mehdi Zed**](https://jesuisundev.com/) - [versão original](https://www.jesuisundev.com/en/why-developers-hate-php)
+Written by [**Mehdi Zed**](https://jesuisundev.com/) - [versão original](https://www.jesuisundev.com/en/why-developers-hate-php)
 
-Traduzido e adaptado por [**Bruno Bandeira**](https://brunobandeira.me/)
+Translated and adapted by [**Bruno Bandeira**](https://brunobandeira.me/)
 
 # Why developers hate PHP
 
 PHP is the [most widely used language](https://w3techs.com/technologies/overview/programming_language) in the world for websites. It is also the most hated. And it’s pure hate. But why do so many developers hate it so much? Today we’re going to the origin of the hate, let’s see if it’s really justified.
 
-## Don’t touch my PHP / Não toque no meu PHP
+## Don’t touch my PHP
 
 If I’m saying that PHP is hated by the whole world, it’s not my personal opinion. In the latest stack overflow survey, developers from all over the world put PHP in the [top 5 most dreaded languages](https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted). The latest Hired survey puts it squarely in the [top 2 most hated](https://hired.com/state-of-software-engineers#experience). There’s a lot more and I’m not even talking about what’s going on [Reddit](https://www.reddit.com/r/lolphp/). **If you’re a PHP developer since 20 years who came here on a crusade to crucify me on the altar of Symfony, please relax**. We’re here to talk, put the gun down. Well now on the contrary if you hate PHP with passion : take some pop-corns and sit down comfortably.
 
 Once upon a time I was doing some Symfony2 myself. And I liked the whole Symfony thing, frankly, it’s not bad. I told this to a developer I met at a devops meetup. He was shocked, he was about to vomit, he looked at me like I just murdered a newborn baby. From now on I’m going to call him James to make it easier. So I immediately asked James a question: **why so much hatred?**
 
-## PHP trouble past / PHP problema passado
+## PHP trouble past
 
 To understand what’s coming next, you need context. In order to do that, let’s make a little rewind. It’s 1994 and [*Rasmus Lerdorf*](https://twitter.com/rasmus) is quickly coding a C tool suite. This suite of tools is used to manage his personal website. Rasmus is doing it just for his own need at the time. He doesn’t want to turn it into a programming language. **Nothing in this tool suite is designed to become one**. A year later Rasmus released this open source toolkit called then: PHP/FI. And it looked like this.
 
@@ -22,11 +22,10 @@ We’re far from what you’re using today in your huge PHP7 framework, aren’t
 
 “I really don’t like programming. I built this tool to program less so that I could simply reuse code … I don’t know how to stop it, there was never any intention to write a programming language […]. I don’t know how to write a programming language at all, I just kept adding the next logical step.”
 
-"Eu realmente não gosto de programação. Eu criei essa ferramenta para programar menos, para poder simplesmente reutilizar o código ... não sei como pará-lo, nunca houve a intenção de escrever uma linguagem de programação [...]. Não sei escrever uma linguagem de programação, apenas continuei adicionando o próximo passo lógico ".
 
 ![alt text](./002-files/002.gif "woops")
 
-## Inconsistency and poor design / Inconsistência e design deficiente
+## Inconsistency and poor design
 
 Back in 2019 with our friend James from the meetup. He immediately started talking to me about the “disgusting” syntax of PHP. How the language is not typed. How the language is mostly unpredictable. Whether it’s on the use of operators or the incredible inconsistencies in function naming. I’ll spare you the list of technical problems because otherwise this article will take you all day to read.
 
@@ -37,7 +36,7 @@ If you really want to know everything I found you [the most pissed off person in
 Using PHP it’s very easy to produce bad code. Other languages have many more restrictions. We also see a lot of security problems with PHP. And the problem is the same here. It’s very easy to make bad and insecure code with PHP. But PHP is not a security hole or doomed to ugly code if you code properly. **Developers hate PHP because you are more likely to get errors with a language that allows so much freedom**.
 
 
-## Victim of its success / Vítima do seu sucesso
+## Victim of its success
 
 There is another important factor in this ambient hatred. **Developers hate PHP because it is used everywhere**. This blog runs on PHP7. Like most of the web I just need to host a dynamic page which is then cached. PHP does the job. Yes the language itself is not the best. Yes i could use a super duper stack. **But who cares?** It meets my needs in a fast and accessible way. It’s also for this reason that 80% of the web runs in PHP.
 
@@ -47,7 +46,7 @@ When I explained the same thing to James he started to go crazy. Like you and me
 
 With the advent of WordPress, which literally dominates the Internet, James will play with PHP for a long time. By the way, I’m talking to you as if this language could only handle a blog like mine but that’s obviously not the case. **Facebook, Wikipedia, Yahoo, Flickr, Tumblr all these sites run in PHP and welcome millions of users every month without flinching**. PHP does this very well and has been doing it for a long time.
 
-## The future is now old man / O futuro é agora um homem velho
+## The future is now old man
 
 You’ve been hearing for 10 years that PHP is going to die. Yet he’s still here. Despite time and the latest hypothetical technology, it’s not moving. **Developers hate PHP because it is the opposite of [hype driven development](https://www.cygnismedia.com/blog/hype-driven-development/)**. In a profession where everyone invests quickly on the latest stuff, PHP is an old man who doesn’t want to sell his land. An old man who continues to dance insolently.
 
@@ -56,7 +55,7 @@ You’ve been hearing for 10 years that PHP is going to die. Yet he’s still he
 
 My discussion with James continues normally and all of a sudden he tells me something completely shocking. *“On top of that PHP is by far the slowest language you can find for web”*. When he said that I understood that James didn’t read anything on PHP since a long time.
 
-## PHP evolves, not its reputation / PHP evolui, não sua reputação
+## PHP evolves, not its reputation
 
 In the minds of many developers, PHP has remained in version 4. When the language was unstable, with disastrous performance and non-existent OOP. **Developers hate PHP because they believe the language has been stagnating for 20 years**. When you know PHP today you know that it’s far from PHP4.
 
