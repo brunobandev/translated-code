@@ -6,8 +6,10 @@ O projeto foi criado com o intuito de trazer conteúdo traduzido para a comunida
 *The project was created to bring translated content to the Brazilian software development community.*
 
 ## :sparkles: Artigos traduzidos / *Translated articles*
-1. [10 práticas para se ter um código legível](001-10-practices-for-readable-code/001-10-praticas-para-se-ter-um-codigo-legivel.md) - [*10 practices for readable code*](001-10-practices-for-readable-code/001-10-practices-for-readable-code.md)
+3. [Dicas de produtividade para programadores](003-productivity-tips-for-programmers/003-dicas-de-produtividade-para-programadores.md) - [Productivity Tips For Programmers](003-productivity-tips-for-programmers/003-productivity-tips-for-programmers.md)
 2. [Por que os desenvolvedores odeiam PHP](002-why-developers-hate-php/002-por-que-os-desenvolvedores-odeiam-php.md) - [Why developers hate PHP](002-why-developers-hate-php/002-why-developers-hate-php.md)
+1. [10 práticas para se ter um código legível](001-10-practices-for-readable-code/001-10-praticas-para-se-ter-um-codigo-legivel.md) - [*10 practices for readable code*](001-10-practices-for-readable-code/001-10-practices-for-readable-code.md)
+
 
 ## :question: Como contribuir? / *How to contribute?*
 Você pode contribuir de várias formas:

@@ -18,7 +18,7 @@ Como dito anteriormente, a produtividade não é igual a horas gastas atrás do 
 
 Dê um tempo para sua cabeça por alguns minutos e mude seu foco. Estique as pernas ou pegue alguma coisa para beber. Você verá que é capaz de resolver problemas mais rapidamente.
 
-Você descobrirá que a solução para muitos problemas difíceis aparece repentinamente em sua cabeça enquanto você está realizando alguma outra tarefa mundana. Sempre que você estiver olhando para a tela novamente, repita o processo novamente. Provavelmente irá ajudá-lo!
+Você descobrirá que a solução para muitos problemas difíceis aparece repentinamente em sua cabeça enquanto você está realizando alguma outra tarefa mundana. Sempre que você estiver olhando para a tela novamente, repita o processo. Provavelmente irá ajudá-lo!
 
 > "Às vezes é melhor deixar algo em paz, fazer uma pausa, e isso é verdade na programação". - Joyce Wheeler
 
@@ -26,7 +26,7 @@ Você descobrirá que a solução para muitos problemas difíceis aparece repent
 
 As ferramentas usadas definem a maneira como você trabalha. Além de dominar as ferramentas usadas, você deve gastar tempo aprendendo novas ferramentas.
 
-Os desenvolvedores têm necessidades exclusivas, dependendo da área de atuação. Não existe uma lista de ferramentas que todo desenvolvedor precisa. As ferramentas necessárias são diferentes para cada desenvolvedor. Em grande parte, depende da sua da  tecnologia utilizada, um desenvolvedor Java usa ferramentas diferentes das de um desenvolvedor Python. E mesmo que a tecnologia utilizada seja a mesma, cada desenvolvedor tem sua própria preferência, é claro.
+Os desenvolvedores têm necessidades exclusivas, dependendo da área de atuação. Não existe uma lista de ferramentas que todo desenvolvedor precisa. As ferramentas necessárias são diferentes para cada desenvolvedor. Em grande parte, depende da  tecnologia utilizada, um desenvolvedor Java usa ferramentas diferentes das de um desenvolvedor Python. E mesmo que a tecnologia utilizada seja a mesma, cada desenvolvedor tem sua própria preferência, é claro.
 
 Você precisa dedicar algum tempo para descobrir quais ferramentas você tem disponível e quais ferramentas você mais gosta.
 
@@ -80,12 +80,12 @@ Os ganhos de produtividade vêm com o tempo, portanto, não espere obter grandes
 
 Estas são as 6 coisas que você poderia fazer para se tornar mais produtivo:
 
-1. Saiba quando se afastar do seu computador
-2. Gaste tempo aprendendo novas ferramentas
-3. Automatize o máximo que puder
-4. Trabalhe primeiro em sua tarefa mais importante
-5. Crie um plano antes de começar a escrever o código
-6. Afaste-se das mídias sociais
+1. Saiba quando se afastar do seu computador;
+2. Gaste tempo aprendendo novas ferramentas;
+3. Automatize o máximo que puder;
+4. Trabalhe primeiro em sua tarefa mais importante;
+5. Crie um plano antes de começar a escrever o código;
+6. Afaste-se das mídias sociais;
 
 
 Obrigado pela leitura!
