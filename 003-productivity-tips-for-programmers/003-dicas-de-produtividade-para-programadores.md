@@ -57,7 +57,7 @@ Isso é tudo o que preciso.
 
 Em seguida, você precisa ter a disciplina de agendar um horário para trabalhar em sua tarefa mais importante. Trabalhe nessa tarefa logo de manhã. Eu não sei como explicar isso o suficiente. Os psicólogos comportamentais dizem que nosso melhor momento para tratar tarefas importantes é utilizar duas horas da parte da manhã.
 
-Pare de trabalhar em tarefas menos importantes neste periodo da manhã, respondendo a seus e-mails e telefonemas, por exemplo. Conclua sua tarefa mais importante antes de responder a todos esses e-mails e telefonemas.
+Pare de trabalhar em tarefas menos importantes neste período da manhã, respondendo a seus e-mails e telefonemas, por exemplo. Conclua sua tarefa mais importante antes de responder a todos esses e-mails e telefonemas.
 
 ## Dica 5. Crie um plano antes de escrever o código
 
