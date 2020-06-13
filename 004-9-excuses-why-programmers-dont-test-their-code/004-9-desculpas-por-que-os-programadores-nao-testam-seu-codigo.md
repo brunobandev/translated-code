@@ -18,7 +18,7 @@ Você já usou alguma das desculpas desta lista?
 
 Esse tipo de declaração geralmente é feito por desenvolvedores arrogantes. Pensar que alguém poderia escrever um código perfeito é ingênuo, na melhor das hipóteses. Até os melhores programadores cometem erros. E eles os fazem o tempo todo.
 
-Ninguém é perfeito - os erros acontecem com muito mais frequência do que deveriam, e isso é realmente bom desde que aprendemos com esses erros.
+Ninguém é perfeito - os erros acontecem com muito mais frequência do que deveriam, e isso é realmente bom desde que aprendamos com esses erros.
 
 Não há problema em confiar no seu código. Mas mesmo se outro desenvolvedor revisou seu código e o aprovou, você não deveria estar satisfeito ... ainda. Mesmo se você testou manualmente alguns casos de uso, ainda existe um perigo em todas essas coisas.
 
@@ -30,7 +30,7 @@ Todas essas coisas dependem do fator humano. E é exatamente isso que você não
 
 O que você quer dizer é que realmente não sabe como testar esse pedaço de código. Provavelmente, seu código está estruturado de maneira ruim, o que o torna não testável. Se for apenas esse pedaço de código, refatore-o em pedaços pequenos e testáveis.
 
-Quando você lida com um código que não pode ser testado, uma vez que é mal projetado e o código é abaixo do ideal, você tem alguns problemas maiores. O código não testável é caro para manter e modificar. Além disso, o código não testável será difícil para os novos membros da equipe aprenderem.
+Quando você lida com um código que não pode ser testado, uma vez que está mal projetado e o código está abaixo do ideal, você tem alguns problemas maiores. O código não testável é caro para manter e modificar. Além disso, o código não testável será difícil para os novos membros da equipe aprenderem.
 
 Se você não estiver testando seu código, acabará enfrentando o problema em que os desenvolvedores não têm confiança para implantar o código. A falta de testes os deixa ansiosos, pois não têm a confirmação de que suas alterações não quebraram nada.
 
@@ -44,7 +44,7 @@ Mas há muito mais a testar do que apenas clicar no cenário do caminho feliz. V
 
 Sempre que você encontrar um bug, é uma boa prática escrever um novo teste que cubra esse caso de teste.
 
-Torne os testes de escrita parte da sua rotina - não a torne opcional.
+Torne os testes de escrita parte da sua rotina - não os torne opcionais.
 
 ## 4. "O teste aumenta o tempo de desenvolvimento e o tempo está acabando"
 
@@ -58,7 +58,7 @@ Requisitos ruins não são uma desculpa para pular testes de escrita. Você tem 
 
 Nos dois casos, você precisa trabalhar com qualquer pequeno pedaço de documentação que possa colocar em suas mãos. Tente pesquisar e-mails antigos ou algumas anotações que você fez para tentar encontrar algumas pistas.
 
-Você também deseja dar uma olhada nas versões atuais ou mais antigas do aplicativo - se possível, é claro. Você provavelmente encontrará muitas pistas ocultas aqui. Não se esqueça de dar uma olhada nos testes. Eles podem estar cheios de jóias escondidas que podem ajudá-lo.
+Você também deve dar uma olhada nas versões atuais ou mais antigas do aplicativo - se possível, é claro. Você provavelmente encontrará muitas pistas ocultas aqui. Não se esqueça de dar uma olhada nos testes. Eles podem estar cheios de jóias escondidas que podem ajudá-lo.
 
 Por último, mas não menos importante, tente conversar com alguns membros da equipe. Eles podem saber muito mais sobre os requisitos não documentados que você está procurando. Pense na única coisa que foi discutida, mas não documentada, naquela reunião em que você não pôde participar.
 
@@ -68,7 +68,7 @@ Por último, mas não menos importante, tente conversar com alguns membros da eq
 
 Bem, a única certeza que temos no desenvolvimento de software é que os requisitos mudarão. Às vezes, eles parecem estar sempre mudando.
 
-As pessoas mudam de idéia por muitas razões e o fazem regularmente. A mudança de requisitos pode ser causada por muitas coisas. Algumas pessoas solicitam um recurso, mas na verdade não sabem o que querem. Infelizmente, isso acontece muito. Outra razão pela qual os requisitos podem mudar é por causa da política dentro de uma organização.
+As pessoas mudam de idéia por muitas razões e as fazem regularmente. A mudança de requisitos pode ser causada por muitas coisas. Algumas pessoas solicitam um recurso, mas na verdade não sabem o que querem. Infelizmente, isso acontece muito. Outra razão pela qual os requisitos podem mudar é por causa da política dentro de uma organização.
 
 Sempre que você estiver lidando com alterações de requisitos, priorize o teste dos fluxos mais comuns.
 
@@ -102,6 +102,6 @@ Por favor, deixe suas palavras serem apoiadas por alguns testes reais. O teste c
 
 Você poderia se identificar com alguma das desculpas desta lista?
 
-Acho que todos nós já usamos um desses antes. Da próxima vez, provavelmente devemos considerar escrever os testes, já que todos sabemos que não testar nosso código voltará a nos morder em algum momento posterior.
+Acho que todos nós já usamos uma dessas antes. Da próxima vez, provavelmente devemos considerar escrever os testes, já que todos sabemos que não testar nosso código voltará a nos morder em algum momento posterior.
 
 Obrigado por ler!
