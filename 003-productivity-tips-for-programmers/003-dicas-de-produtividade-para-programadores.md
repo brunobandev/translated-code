@@ -2,7 +2,6 @@ Written by **Daan** - [original version](https://levelup.gitconnected.com/produc
 
 Translated and adapted by [**Bruno Bandeira**](https://github.com/brunobandev/translated-code)
 
-
 ## Dicas de produtividade para programadores
 
 ***6 dicas que ajudam a maximizar a produtividade.***
