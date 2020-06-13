@@ -98,7 +98,7 @@ Como você sabe que seu código funciona perfeitamente?
 
 Por favor, deixe suas palavras serem apoiadas por alguns testes reais. O teste completo filtra os bugs críticos, garantindo que o código funcione da maneira pretendida.
 
-## Para finaizar
+## Para finalizar
 
 Você poderia se identificar com alguma das desculpas desta lista?
 
