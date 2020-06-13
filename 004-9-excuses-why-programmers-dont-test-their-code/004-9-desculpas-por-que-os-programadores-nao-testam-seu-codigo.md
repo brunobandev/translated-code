@@ -34,7 +34,7 @@ Quando você lida com um código que não pode ser testado, uma vez que está ma
 
 Se você não estiver testando seu código, acabará enfrentando o problema em que os desenvolvedores não têm confiança para implantar o código. A falta de testes os deixa ansiosos, pois não têm a confirmação de que suas alterações não quebraram nada.
 
-## 3. "Não sei o que testar"
+## 3. “Não sei o que testar”
 
 Você está em dúvida sobre o que testar? Teste tudo!
 
@@ -46,7 +46,7 @@ Sempre que você encontrar um bug, é uma boa prática escrever um novo teste qu
 
 Torne os testes de escrita parte da sua rotina - não os torne opcionais.
 
-## 4. "O teste aumenta o tempo de desenvolvimento e o tempo está acabando"
+## 4. “O teste aumenta o tempo de desenvolvimento e o tempo está acabando”
 
 Este é um dos maiores equívocos quando se trata de teste. Sempre que você começa a escrever testes pela primeira vez, isso definitivamente aumenta o tempo de desenvolvimento. Primeiro, você precisa aprender a escrever código testável e como fazer testes adequados. Este é um investimento que você faz a longo prazo.
 
@@ -62,7 +62,7 @@ Você também deve dar uma olhada nas versões atuais ou mais antigas do aplicat
 
 Por último, mas não menos importante, tente conversar com alguns membros da equipe. Eles podem saber muito mais sobre os requisitos não documentados que você está procurando. Pense na única coisa que foi discutida, mas não documentada, naquela reunião em que você não pôde participar.
 
-## 6. "Este pedaço de código não muda"
+## 6. “Este pedaço de código não muda”
 
 "Não faz sentido testar o código que não muda. Isso é uma completa perda de tempo. "
 
@@ -90,7 +90,7 @@ Os testes são uma parte essencial do desenvolvimento de software, e essa parte 
 
 Escrever testes reduz os custos de manutenção e os custos de desenvolvimento a longo prazo.
 
-## 9. "Este pedaço de código é tão pequeno ... não vai quebrar nada"
+## 9. “Este pedaço de código é tão pequeno ... não vai quebrar nada”
 
 Todo desenvolvedor escreveu trechos de código tão pequenos que não poderiam quebrar nada importante. E, no entanto, ele ainda conseguiu quebrar alguma coisa. Essas duas linhas de código que você adicionou conseguiram quebrar algo que você não previa.
 
