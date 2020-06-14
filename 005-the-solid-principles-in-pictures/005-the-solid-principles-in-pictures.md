@@ -2,6 +2,10 @@
 
 ![alt text](005-files/000-en.png "S.O.L.I.D")
 
+Written by **Ugonna Thelma** - [original version](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
+Translated and adapted by [**Bruno Bandeira**](https://github.com/brunobandev/translated-code)
+
 If you are familiar with [Object-Oriented Programming](https://en.wikipedia.org/wiki/Object-oriented_programming), then you’ve probably heard about the [**SOLID**](https://en.wikipedia.org/wiki/SOLID) principles.
 
 These five software development principles are guidelines to follow when building software so that it is easier to scale and maintain. They were made popular by a software engineer, [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin).
@@ -111,3 +115,5 @@ So far, we have discussed these five principles and highlighted their goals. The
 Thank you so much for reading. I hope you have a better idea about this topic and you had as much fun reading this as I did writing it.
 
 If you have any questions or suggestions, leave a comment or reach out to me on Twitter[**@ugonna_t**](https://twitter.com/ugonna_t).
+
+Thank you **Ugonna Thelma** for allowing me to do this.
