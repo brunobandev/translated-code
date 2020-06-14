@@ -26,7 +26,7 @@ Vamos começar!
 
 > Uma classe deve ter uma única responsabilidade
 
-![alt text](005-files/001-en.png "Single Responsibility")
+![alt text](005-files/001-pt.png "Single Responsibility")
 
 Se uma classe tem muitas responsabilidades, aumenta a possibilidade de erros, pois fazer alterações em uma de suas responsabilidades pode afetar as outras sem que você saiba.
 
@@ -38,7 +38,7 @@ Esse princípio visa separar comportamentos para que, se surgirem erros como res
 
 > As classes devem ser abertas para extensão, mas fechadas para modificação
 
-![alt text](005-files/002-en.png "Open-Closed")
+![alt text](005-files/002-pt.png "Open-Closed")
 
 Alterar o comportamento atual de uma classe afetará todos os sistemas que usam essa classe.
 
@@ -52,7 +52,7 @@ Este princípio visa estender o comportamento de uma classe sem alterar o compor
 
 > Se S é um subtipo de T, os objetos do tipo T em um programa podem ser substituídos por objetos do tipo S sem alterar nenhuma das propriedades desejáveis desse programa.
 
-![alt text](005-files/003-en.png "Liskov Substitution")
+![alt text](005-files/003-pt.png "Liskov Substitution")
 
 Quando uma classe **filho** não pode executar as mesmas ações que sua classe **pai**, isso pode causar erros.
 
@@ -72,7 +72,7 @@ Esse princípio visa impor consistência para que a classe pai ou sua classe fil
 
 > Os clientes não devem ser forçados a depender dos métodos que não usam.
 
-![alt text](005-files/004-en.png "Interface Segregation")
+![alt text](005-files/004-pt.png "Interface Segregation")
 
 Quando uma classe é obrigada a executar ações que não são úteis, é um desperdício e pode produzir bugs inesperados se a classe não tiver a capacidade de executar essas ações.
 
@@ -88,7 +88,7 @@ Esse princípio visa dividir um conjunto de ações em conjuntos menores, de mod
 
 > - Abstrações não devem depender de detalhes. Os detalhes devem depender de abstrações.
 
-![alt text](005-files/005-en.png "Dependency Inversion")
+![alt text](005-files/005-pt.png "Dependency Inversion")
 
 Em primeiro lugar, vamos definir os termos usados aqui de maneira mais simples
 
